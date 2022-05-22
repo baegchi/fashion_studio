@@ -5,7 +5,7 @@
 This repository contains starter code for Fashion Studio Website in ReactJS. <br />
 
 View Demo👇: <br />
-https://wibe-studio.netlify.app/ <br />
+https://boisterous-kitten-5dcf37.netlify.app/ <br />
 
 <br />
 
