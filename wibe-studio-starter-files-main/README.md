@@ -7,11 +7,9 @@
 This repository contains starter code for Fashion Studio Website in ReactJS. <br />
 
 View Demo👇: <br />
-https://wibe-studio.netlify.app/ <br />
+https://boisterous-kitten-5dcf37.netlify.app/ <br />
 
-If you want to learn how to create it please follow below tutorial👇: <br />
-https://youtu.be/Ra1Fsa9YJCk <br />
-[![YouTube Video Views](https://img.shields.io/youtube/views/Ra1Fsa9YJCk?style=social)](https://youtu.be/Ra1Fsa9YJCk)<br />
+
 
 
 ### Images of The Fashion Studio Website:
@@ -29,7 +27,7 @@ Fonts: https://fontsource.org/ <br />
 
 [styled-components](https://styled-components.com/docs/advanced) <br />
 [GSAP](https://greensock.com/gsap/) <br />
-[Framer-mMtion](https://www.framer.com/motion/) <br />
+[Framer-motion](https://www.framer.com/motion/) <br />
 [React-Locomotive-Scroll](https://www.npmjs.com/package/react-locomotive-scroll) <br />
 [Locomotive-Scroll](https://www.npmjs.com/package/locomotive-scroll) <br />
 
